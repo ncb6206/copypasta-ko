@@ -5,8 +5,8 @@ import './globals.css';
 const font = Noto_Sans_KR({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: '밈/도배 댓글 복사',
-  description: '원하는 문장을 골라 쉽게 복사하여 사용할 수 있습니다.',
+  title: '핫딜 모음',
+  description: '물건을 값 싸게 사고 싶습니다.',
 };
 
 export default function RootLayout({
